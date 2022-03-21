@@ -1,0 +1,15 @@
+Initial Setup:
+  Download and build OpenCV libraries
+  https://docs.opencv.org/master/d0/db2/tutorial_macos_install.html 
+
+  Initialize CMake OPENCV_DIR to the directory of those files
+
+Usage:
+
+  Either compile using CLion or with cmake .. when in the project directory
+
+  The test suite can be run by including it in the CMake executable list
+
+  The resultant application can be used by creating a AntProc object(video_path) and using the member function ContourFinder(). Further implemenation of a command  line interface would be useful.
+
+Enjoy!

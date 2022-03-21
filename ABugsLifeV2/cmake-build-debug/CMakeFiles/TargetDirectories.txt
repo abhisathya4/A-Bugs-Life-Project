@@ -1,0 +1,3 @@
+/Users/gabrielkosmacher/CLionProjects/final-project-a-bug-s-life/ABugsLifeV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gabrielkosmacher/CLionProjects/final-project-a-bug-s-life/ABugsLifeV2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielkosmacher/CLionProjects/final-project-a-bug-s-life/ABugsLifeV2/cmake-build-debug/CMakeFiles/ABugsLifeV2.dir

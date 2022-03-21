@@ -1,0 +1,7 @@
+
+Compiler = C++20
+
+Libraries:
+    opencv 4.5.2
+    sqlite_orm
+    cmake 3.5.1
